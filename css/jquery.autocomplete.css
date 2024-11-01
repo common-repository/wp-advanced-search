@@ -1,0 +1,19 @@
+.ui-autocomplete {position:absolute; top:0;	left:0;	cursor:default;}
+/*.ui-autocomplete {border:1px solid #ddd; background:#fff; overflow:hidden; z-index:99999;}*/
+/*.ui-autocomplete ul {list-style:none; padding:0; margin:0;}*/
+.ui-autocomplete li.ui-menu-item {position:relative; margin:0; padding:3px 1em 3px .4em; cursor:pointer; min-height:0; list-style-image:url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7");}
+/*.ui-autocomplete li {padding:.1em .4em; display:block; font-size:.9em; line-height:1.3em; overflow:hidden; border-top:1px solid #f1f1f1; color:#222;}*/
+.ui-autocomplete li.ui-state-focus {border:1px solid #929292; background:#929292; font-weight:bold; color:#ffffff;}
+.ui-autocomplete li.ui-state-focus a,
+.ui-autocomplete li.ui-state-focus:hover,
+.ui-autocomplete li.ui-state-focus:link,
+.ui-autocomplete li.ui-state-focus:visited {color:#ffffff; text-decoration:none;}
+.ui-menu .ui-state-focus,
+.ui-menu .ui-state-active {margin:-1px;}
+.ui-state-active,
+.ui-widget-content .ui-state-active {border:1px solid #dddddd; background:#ffffff; color:#ff0084;}
+.ui-state-active a,
+.ui-state-active a:link,
+.ui-state-active a:visited {color:#ff0084; text-decoration:none;}
+/*.ui-autocomplete li:first-child {border-top:0;}*/
+/*.ui-autocomplete-loading {background:#FFF url('indicator.gif') right center no-repeat;}*/
